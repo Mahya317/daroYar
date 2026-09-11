@@ -1,0 +1,6 @@
+{
+  "name": "دارویار سالمند",
+  "description": "سیستم یادآوری و پایش مصرف دارو ویژه سالمندان همراه با اعلان هوشمند به مراقب",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
